@@ -1,0 +1,7 @@
+{
+  "name": "ferremas_front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
